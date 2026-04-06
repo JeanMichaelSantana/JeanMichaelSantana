@@ -41,7 +41,7 @@ Jean Michael S. Santana</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,dotnet,vscode,visualstudio,react,mysql,github,windows,linux,mysql,versel,cs,mint=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,dotnet,vscode,visualstudio,react,mysql,github,windows,linux,mysql,versel,cs,mint,notion,=14" />
   </a>
 </p>
 ### Blogs posts
