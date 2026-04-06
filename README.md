@@ -2,7 +2,7 @@
 Jean Michael S. Santana</a></h1>
 <h3 align="center"> Web develoment, HTML, CSS y JavaScrip</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JeanMichaelSantana&label=Profile%20views&color=0e75b6&style=flat" alt="Jean" /> </p>
 
 
 <a target="_blank" align="center">
