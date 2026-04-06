@@ -2,11 +2,11 @@
 Jean Michael S. Santana</a></h1>
 <h3 align="center"> Web develoment, HTML, CSS y JavaScrip</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JeanMichaelSantana&label=Profile%20views&color=0e75b6&style=fla" alt="Jean" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JeanMichaelSantana&label=Profile%20views&color=0e75b6&style=flat" alt="Jean" /> </p>
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="">
 </a>
 
 - 🔭 I’m currently working in <a href="" target="blank">Colocar</a>
