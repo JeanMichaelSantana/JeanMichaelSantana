@@ -55,7 +55,6 @@ Saurabh</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
 - [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
 - [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
 <!-- BLOG-POST-LIST:END -->
@@ -64,4 +63,3 @@ Saurabh</a></h1>
 
 Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
 
-Last Edited on: 08/08/2022
