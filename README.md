@@ -6,7 +6,7 @@ Jean Michael S. Santana</a></h1>
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"">
 </a>
 
 - 🔭 I’m currently working in <a href="" target="blank">Colocar</a>
