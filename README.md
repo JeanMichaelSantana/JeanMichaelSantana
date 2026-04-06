@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm <a href="" target="blank">
-Jean Michael S. Santana</a></h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+%F0%9F%91%8B;+I%27m+Juan+Mateo!;" />
+</h1>
+
 <h3 align="center"> Web develoment, HTML, CSS y JavaScrip</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JeanMichaelSantana&label=Profile%20views&color=0e75b6&style=flat" alt="Jean" /> </p>
