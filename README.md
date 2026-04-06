@@ -15,6 +15,23 @@ Jean Michael S. Santana</a></h1>
 
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/>
+
+</p>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,dotnet,vscode,visualstudio,react,mysql,github,windows,linux,mysql,vercel,cs,mint,notion,=14" />
+  </a>
+</p>
+
+
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -29,21 +46,6 @@ Jean Michael S. Santana</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
-
-</p>
-<br/>
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,dotnet,vscode,visualstudio,react,mysql,github,windows,linux,mysql,vercel,cs,mint,notion,=14" />
-  </a>
-</p>
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
