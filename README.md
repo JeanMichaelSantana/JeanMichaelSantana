@@ -42,5 +42,5 @@ Jean Michael S. Santana</a></h1>
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+Credit: [JEAN](https://github.com/100rabhcsmc)
 
