@@ -6,7 +6,7 @@ Jean Michael S. Santana</a></h1>
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
 </a>
 
 - 🔭 I’m currently working in <a href="" target="blank">Colocar</a>
