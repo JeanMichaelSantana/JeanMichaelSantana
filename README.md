@@ -12,17 +12,7 @@ Jean Michael S. Santana</a></h1>
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
 - 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
@@ -41,8 +31,6 @@ Jean Michael S. Santana</a></h1>
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
 </p>
