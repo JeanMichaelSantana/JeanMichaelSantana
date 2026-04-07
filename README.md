@@ -52,11 +52,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+- [Upload](link)
+- [Upload](link)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-Credit: [JEAN](https://github.com/100rabhcsmc)
+Credit: [JEAN](link)
 
