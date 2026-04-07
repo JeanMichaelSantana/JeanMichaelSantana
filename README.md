@@ -15,7 +15,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="" target="blank">CV</a>
 <br/>
 
 </p>
