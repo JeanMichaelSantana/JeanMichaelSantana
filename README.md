@@ -8,7 +8,7 @@
 
 
 <a target="_blank" align="center">
- <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+ <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px>
 </a>
 
 - 🔭 I’m currently working in <a href="https://www.bancounion.com.do/" target="blank">Banco Union</a>
