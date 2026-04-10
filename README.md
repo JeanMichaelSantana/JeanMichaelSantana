@@ -2,7 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+%F0%9F%91%8B;+I%27m+Jean+Michael!;" />
 </h1>
 
-<h3 align="center"> Web develoment, HTML, CSS y JavaScrip</h3>
+<h3 align="center"> Web Developer passionate about creating modern, functional, and responsive interfaces.
+I specialize in Front-End development, turning ideas into intuitive and engaging web experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JeanMichaelSantana&label=Profile%20views&color=0e75b6&style=flat" alt="Jean" /> </p>
 
