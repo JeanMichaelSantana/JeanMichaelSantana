@@ -29,7 +29,7 @@ I specialize in Front-End development, turning ideas into intuitive and engaging
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,git,dotnet,vscode,visualstudio,react,mysql,github,windows,linux,mysql,vercel,cs,mint,notion,=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,git,node,dotnet,vscode,visualstudio,react,mysql,github,windows,linux,mysql,vercel,cs,mint,notion,=14" />
   </a>
 </p>
 
